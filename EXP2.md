@@ -16,6 +16,7 @@ Algorithm:
 5. Perform matrix multiplication and store the answer in result.
 6. Stop the program.
 ### Program:
+```
 r1, c1 = input("Enter row and column count in matrix 1: ").split()
 r2, c2 = input("Enter row and column count in matrix 2: ").split()
 matrix1 = []
@@ -62,7 +63,7 @@ else:
 ![Screenshot 2025-03-20 090708](https://github.com/user-attachments/assets/92541173-ce56-4504-bcf2-e3deaa726e12)
 
 
-
+```
 
 
 ### Result:
