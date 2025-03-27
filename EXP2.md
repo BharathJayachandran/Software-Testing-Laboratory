@@ -57,13 +57,13 @@ if r1.isnumeric() and c1.isnumeric() and r2.isnumeric() and c2.isnumeric():
             print()
 else:
     print("Enter a valid number")
+```
 
 ### Output:
 
 ![Screenshot 2025-03-20 090708](https://github.com/user-attachments/assets/92541173-ce56-4504-bcf2-e3deaa726e12)
 
 
-```
 
 
 ### Result:
